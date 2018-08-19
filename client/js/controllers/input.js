@@ -160,6 +160,17 @@ define(['jquery', '../entity/animation', './chat', './overlay'], function($, Ani
                 case Modules.Keys.Right:
                     player.moveRight = false;
                     break;
+
+                case Modules.Keys.Tab:
+
+                    if(self.game.interface.inventory.isVisible())
+                        self.game.interface.inventory.hide();
+                    else {
+                        self.game.interface.hideAll();
+                        self.game.interface.inventory.display();
+                    }
+                    break;
+                
             }
 
             player.disableAction = false;

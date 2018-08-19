@@ -144,6 +144,10 @@ define(['jquery'], function($) {
                 if (!self.game)
                     return;
 
+                //prevent Tab (keycode 9) from being captured by browser
+                if (key == 9 && self.game.started)
+                    e.preventDefault();
+
                 self.body.focus();
 
                 if (key === Modules.Keys.Enter && !self.game.started) {
