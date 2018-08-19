@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c48d7ea8-5c56-4f6b-afdb-8c04901f739b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/entity/character/player/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/entity/character/player/player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/network/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/network/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/network/packets.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/network/packets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/controllers/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/controllers/commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/game/entity/character/player/party.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/game/entity/character/player/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/game/entity/character/player/player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/game/world.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/game/world.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/lib/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/lib/class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/map/area.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/map/area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/map/areas/chestareas.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/map/areas/chestareas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/map/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/map/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/network/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/network/connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/network/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/network/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/network/packets.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/network/packets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/network/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/network/socket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/network/websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/network/websocket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/util/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/util/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/util/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/util/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/util/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/util/utils.js" afterDir="false" />
+    </list>
+    <ignored path="Tap-Tap-Adventure.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Tap-Tap-Adventure" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="packets.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/js/network/packets.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2450">
+              <caret line="175" column="2" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commands.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/controllers/commands.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/network/messages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="449" column="3" selection-start-line="449" selection-start-column="3" selection-end-line="449" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/js/network/messages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="441" column="10" selection-start-line="441" selection-start-column="10" selection-end-line="441" selection-end-column="10" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>idle:</find>
+      <find>performAction</find>
+      <find>idleSpeed</find>
+      <find>bat&quot;</find>
+      <find>setIdle</find>
+      <find>&quot;crab&quot;</find>
+      <find>sprites</find>
+      <find>super</find>
+      <find>requirement</find>
+      <find>statusCallback</find>
+      <find>onRequestStatus</find>
+      <find>onError</find>
+      <find>bossAreas</find>
+      <find>doors</find>
+      <find>tx</find>
+      <find>isCharac</find>
+      <find>isCharacter</find>
+      <find>self.players[</find>
+      <find>getEntityByInstance</find>
+      <find>Notification</find>
+      <find>Party</find>
+      <find>notify:</find>
+      <find>chatHandler.add</find>
+      <find>name</find>
+      <find>self.username</find>
+      <find>getParty</find>
+      <find>pushTo</find>
+      <find>self.send(new Messages.Notification(Packets.NotificationOpcode.Text, message));</find>
+      <find>array</find>
+      <find>party</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fpsCheck</replace>
+      <replace>centreCheck</replace>
+      <replace>'</replace>
+      <replace>boots</replace>
+      <replace>.shopItemBuy</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/js/util/npcs.js" />
+        <option value="$PROJECT_DIR$/server/js/game/entity/character/player/containers/container.js" />
+        <option value="$PROJECT_DIR$/server/js/game/entity/character/player/containers/inventory/inventory.js" />
+        <option value="$PROJECT_DIR$/server/js/util/shops.js" />
+        <option value="$PROJECT_DIR$/server/js/game/entity/character/player/handler.js" />
+        <option value="$PROJECT_DIR$/server/data/shops.json" />
+        <option value="$PROJECT_DIR$/client/js/interface/enchant.js" />
+        <option value="$PROJECT_DIR$/client/js/controllers/interface.js" />
+        <option value="$PROJECT_DIR$/server/js/minigames/impl/teamwar.js" />
+        <option value="$PROJECT_DIR$/server/js/controllers/guilds.js" />
+        <option value="$PROJECT_DIR$/server/js/controllers/shops.js" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/client/js/interface/profile/pages/settings.js" />
+        <option value="$PROJECT_DIR$/client/js/app.js" />
+        <option value="$PROJECT_DIR$/client/css/interface.css" />
+        <option value="$PROJECT_DIR$/client/js/interface/shop.js" />
+        <option value="$PROJECT_DIR$/client/js/utils/storage.js" />
+        <option value="$PROJECT_DIR$/client/js/entity/character/player/playerhandler.js" />
+        <option value="$PROJECT_DIR$/server/js/controllers/incoming.js" />
+        <option value="$PROJECT_DIR$/client/data/config.json" />
+        <option value="$PROJECT_DIR$/client/js/controllers/input.js" />
+        <option value="$PROJECT_DIR$/server/js/game/entity/character/player/warp.js" />
+        <option value="$PROJECT_DIR$/client/js/renderer/renderer.js" />
+        <option value="$PROJECT_DIR$/client/js/entity/sprite.js" />
+        <option value="$PROJECT_DIR$/client/js/controllers/entities.js" />
+        <option value="$PROJECT_DIR$/client/js/entity/character/character.js" />
+        <option value="$PROJECT_DIR$/client/js/entity/entity.js" />
+        <option value="$PROJECT_DIR$/client/data/sprites.json" />
+        <option value="$PROJECT_DIR$/server/data/npcs.json" />
+        <option value="$PROJECT_DIR$/server/js/util/utils.js" />
+        <option value="$PROJECT_DIR$/server/js/util/plugins.js" />
+        <option value="$PROJECT_DIR$/server/js/util/parser.js" />
+        <option value="$PROJECT_DIR$/server/js/network/websocket.js" />
+        <option value="$PROJECT_DIR$/server/js/network/socket.js" />
+        <option value="$PROJECT_DIR$/server/js/network/connection.js" />
+        <option value="$PROJECT_DIR$/server/js/main.js" />
+        <option value="$PROJECT_DIR$/server/js/map/map.js" />
+        <option value="$PROJECT_DIR$/server/js/map/area.js" />
+        <option value="$PROJECT_DIR$/server/js/map/areas/chestareas.js" />
+        <option value="$PROJECT_DIR$/server/js/lib/class.js" />
+        <option value="$PROJECT_DIR$/server/config.json" />
+        <option value="$PROJECT_DIR$/server/js/game/entity/character/player/party.js" />
+        <option value="$PROJECT_DIR$/client/js/game.js" />
+        <option value="$PROJECT_DIR$/server/js/network/packets.js" />
+        <option value="$PROJECT_DIR$/server/js/game/entity/character/player/player.js" />
+        <option value="$PROJECT_DIR$/server/js/game/world.js" />
+        <option value="$PROJECT_DIR$/client/js/network/packets.js" />
+        <option value="$PROJECT_DIR$/server/js/controllers/commands.js" />
+        <option value="$PROJECT_DIR$/client/js/entity/character/player/player.js" />
+        <option value="$PROJECT_DIR$/server/js/network/messages.js" />
+        <option value="$PROJECT_DIR$/client/js/network/messages.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="22" />
+    <option name="width" value="1258" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="character" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="character" type="462c0819:PsiDirectoryNode" />
+              <item name="mob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="character" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="character" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="character" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tap-Tap-Adventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tap-Tap-Adventure" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="party&#9;null&#9;null&#10;development&#9;null&#9;null&#10;return()&#9;null&#9;null&#10;idHasPlugin&#9;null&#9;null&#10;onDeath&#9;null&#9;null&#10;distanceToSpawn&#9;null&#9;null&#10;/*&#9;FILE&#9;file:///Users/flavius/Desktop/Tap-Tap-Adventure/client/img/3/.tilesheet.png.icloud&#10;kaetram&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/server/config.json" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.9.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/client/js/rendering/bubble" />
+      <recent name="$PROJECT_DIR$/client/js/rendering/pointer" />
+      <recent name="$PROJECT_DIR$/client/js/rendering" />
+      <recent name="$PROJECT_DIR$/client/js/entity/gather" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.TTA Development">
+    <configuration name="TTA Development JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://127.0.0.1:1800" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tap-Tap-Adventure/client/index.html" />
+    <configuration name="TTA Development" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="server/js/main.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="e5120d43-2c3f-47ef-9f26-65e539e05186" start="true" with-js-debugger="true" url="http://127.0.0.1:1800" />
+      </EXTENSION>
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.TTA Development JavaScript" />
+      <item itemvalue="Node.js.TTA Development" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c48d7ea8-5c56-4f6b-afdb-8c04901f739b" name="Default" comment="" />
+      <created>1487706156935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487706156935</updated>
+      <workItem from="1487706159279" duration="752000" />
+      <workItem from="1487717389034" duration="60000" />
+      <workItem from="1487717495101" duration="5193000" />
+      <workItem from="1487793976922" duration="2444000" />
+      <workItem from="1487822624656" duration="148000" />
+      <workItem from="1487867769665" duration="841000" />
+      <workItem from="1487871179614" duration="2757000" />
+      <workItem from="1487874640681" duration="1216000" />
+      <workItem from="1487963394253" duration="7000" />
+      <workItem from="1487963566186" duration="18292000" />
+      <workItem from="1487993250267" duration="1957000" />
+      <workItem from="1488047497313" duration="28892000" />
+      <workItem from="1488093190208" duration="417000" />
+      <workItem from="1488130279299" duration="2799000" />
+      <workItem from="1488143745530" duration="1116000" />
+      <workItem from="1488164184391" duration="4253000" />
+      <workItem from="1488223996760" duration="10418000" />
+      <workItem from="1488258528131" duration="6225000" />
+      <workItem from="1488268469046" duration="2629000" />
+      <workItem from="1488298861969" duration="15016000" />
+      <workItem from="1488326805985" duration="9316000" />
+      <workItem from="1488392509744" duration="7322000" />
+      <workItem from="1488419714444" duration="599000" />
+      <workItem from="1488486076252" duration="6050000" />
+      <workItem from="1488560878258" duration="15487000" />
+      <workItem from="1488670933050" duration="9463000" />
+      <workItem from="1488739379936" duration="10251000" />
+      <workItem from="1488825208151" duration="186000" />
+      <workItem from="1488828996196" duration="4788000" />
+      <workItem from="1488903161483" duration="540000" />
+      <workItem from="1488904462983" duration="1387000" />
+      <workItem from="1488906775792" duration="11787000" />
+      <workItem from="1488989506173" duration="457000" />
+      <workItem from="1488992472810" duration="4296000" />
+      <workItem from="1489032609855" duration="5655000" />
+      <workItem from="1489084106935" duration="1385000" />
+      <workItem from="1489119528743" duration="486000" />
+      <workItem from="1489127527053" duration="2169000" />
+      <workItem from="1489203888774" duration="10415000" />
+      <workItem from="1489272225558" duration="425000" />
+      <workItem from="1489282150073" duration="559000" />
+      <workItem from="1489284120817" duration="4150000" />
+      <workItem from="1489338649680" duration="7880000" />
+      <workItem from="1489380414260" duration="3126000" />
+      <workItem from="1489456778275" duration="3670000" />
+      <workItem from="1489467741592" duration="4388000" />
+      <workItem from="1489507189078" duration="3012000" />
+      <workItem from="1489517725894" duration="3110000" />
+      <workItem from="1489607468860" duration="5000" />
+      <workItem from="1489658480595" duration="705000" />
+      <workItem from="1489691990690" duration="1150000" />
+      <workItem from="1489713228157" duration="712000" />
+      <workItem from="1489970859460" duration="5895000" />
+      <workItem from="1490024329484" duration="3307000" />
+      <workItem from="1490037300993" duration="861000" />
+      <workItem from="1490043277997" duration="4398000" />
+      <workItem from="1490110226142" duration="3961000" />
+      <workItem from="1490145801990" duration="9572000" />
+      <workItem from="1490196512506" duration="476000" />
+      <workItem from="1490200368149" duration="3210000" />
+      <workItem from="1490240173196" duration="1497000" />
+      <workItem from="1490243841141" duration="2616000" />
+      <workItem from="1490290308592" duration="1438000" />
+      <workItem from="1490294626540" duration="586000" />
+      <workItem from="1490320033124" duration="5438000" />
+      <workItem from="1490383814743" duration="4921000" />
+      <workItem from="1490461291621" duration="2242000" />
+      <workItem from="1490500166536" duration="915000" />
+      <workItem from="1490503259606" duration="4077000" />
+      <workItem from="1505150881480" duration="81000" />
+      <workItem from="1505150966023" duration="3312000" />
+      <workItem from="1505163324153" duration="5735000" />
+      <workItem from="1505247255825" duration="2000" />
+      <workItem from="1505254542947" duration="590000" />
+      <workItem from="1505259431670" duration="1015000" />
+      <workItem from="1505316058573" duration="906000" />
+      <workItem from="1505415194227" duration="6041000" />
+      <workItem from="1505489716191" duration="5390000" />
+      <workItem from="1505523650923" duration="505000" />
+      <workItem from="1505538996122" duration="1511000" />
+      <workItem from="1505677519053" duration="253000" />
+      <workItem from="1505859556365" duration="302000" />
+      <workItem from="1505860446923" duration="280000" />
+      <workItem from="1505860743087" duration="647000" />
+      <workItem from="1505866218713" duration="7229000" />
+      <workItem from="1505920943998" duration="283000" />
+      <workItem from="1505969066784" duration="493000" />
+      <workItem from="1506044749336" duration="3494000" />
+      <workItem from="1506058957410" duration="469000" />
+      <workItem from="1506096649258" duration="1511000" />
+      <workItem from="1506100338607" duration="21000" />
+      <workItem from="1506101041593" duration="1327000" />
+      <workItem from="1506137926968" duration="1402000" />
+      <workItem from="1506226209884" duration="4115000" />
+      <workItem from="1506283563531" duration="3125000" />
+      <workItem from="1506459724520" duration="1182000" />
+      <workItem from="1506471060973" duration="12862000" />
+      <workItem from="1506491728187" duration="124000" />
+      <workItem from="1506532347871" duration="6304000" />
+      <workItem from="1506605705434" duration="1281000" />
+      <workItem from="1506640937604" duration="3036000" />
+      <workItem from="1506648912863" duration="3219000" />
+      <workItem from="1506706342080" duration="513000" />
+      <workItem from="1506918957070" duration="1814000" />
+      <workItem from="1506963001572" duration="8487000" />
+      <workItem from="1507000974376" duration="3158000" />
+      <workItem from="1507058419886" duration="5180000" />
+      <workItem from="1507075370168" duration="10230000" />
+      <workItem from="1507136272851" duration="2633000" />
+      <workItem from="1507181604256" duration="208000" />
+      <workItem from="1507231002427" duration="9396000" />
+      <workItem from="1507298986155" duration="6762000" />
+      <workItem from="1507444034809" duration="13480000" />
+      <workItem from="1507586126853" duration="6119000" />
+      <workItem from="1507652461141" duration="2157000" />
+      <workItem from="1507681557517" duration="942000" />
+      <workItem from="1507736181225" duration="524000" />
+      <workItem from="1507739044153" duration="936000" />
+      <workItem from="1507759620013" duration="4222000" />
+      <workItem from="1507770870455" duration="1152000" />
+      <workItem from="1507776241675" duration="2952000" />
+      <workItem from="1507815282559" duration="85000" />
+      <workItem from="1507815372466" duration="57000" />
+      <workItem from="1507816007135" duration="630000" />
+      <workItem from="1507859193337" duration="2432000" />
+      <workItem from="1507865887497" duration="245000" />
+      <workItem from="1507909136064" duration="1803000" />
+      <workItem from="1507913632800" duration="3692000" />
+      <workItem from="1507939552489" duration="4800000" />
+      <workItem from="1508007933502" duration="13269000" />
+      <workItem from="1508047415204" duration="24000" />
+      <workItem from="1508086609554" duration="2086000" />
+      <workItem from="1508284949712" duration="3811000" />
+      <workItem from="1508341898090" duration="5568000" />
+      <workItem from="1508380022168" duration="490000" />
+      <workItem from="1508420473358" duration="18000" />
+      <workItem from="1508512996812" duration="1221000" />
+      <workItem from="1508517099120" duration="13788000" />
+      <workItem from="1508649662976" duration="578000" />
+      <workItem from="1508783701764" duration="9037000" />
+      <workItem from="1508804366209" duration="3662000" />
+      <workItem from="1508862298875" duration="3494000" />
+      <workItem from="1508873880788" duration="355000" />
+      <workItem from="1508875770048" duration="3090000" />
+      <workItem from="1508885575733" duration="315000" />
+      <workItem from="1508891746385" duration="710000" />
+      <workItem from="1508895311452" duration="2746000" />
+      <workItem from="1508946477301" duration="233000" />
+      <workItem from="1508946793814" duration="5010000" />
+      <workItem from="1508981358780" duration="8844000" />
+      <workItem from="1509024974163" duration="134000" />
+      <workItem from="1509025716717" duration="158000" />
+      <workItem from="1509066649641" duration="11784000" />
+      <workItem from="1509121996148" duration="2373000" />
+      <workItem from="1509147528485" duration="5504000" />
+      <workItem from="1509376205821" duration="28000" />
+      <workItem from="1509376267558" duration="321000" />
+      <workItem from="1509377555068" duration="803000" />
+      <workItem from="1509408202496" duration="1207000" />
+      <workItem from="1509495161672" duration="4218000" />
+      <workItem from="1509503219501" duration="37000" />
+      <workItem from="1509503480065" duration="98000" />
+      <workItem from="1509503924031" duration="28000" />
+      <workItem from="1509509185298" duration="70000" />
+      <workItem from="1509544802942" duration="81000" />
+      <workItem from="1509557776254" duration="2520000" />
+      <workItem from="1509591240136" duration="2632000" />
+      <workItem from="1509672698318" duration="7557000" />
+      <workItem from="1509723849136" duration="6216000" />
+      <workItem from="1509834068985" duration="8000" />
+      <workItem from="1509858269781" duration="531000" />
+      <workItem from="1509918835095" duration="333000" />
+      <workItem from="1509920182537" duration="6473000" />
+      <workItem from="1509950693500" duration="89000" />
+      <workItem from="1509987012740" duration="428000" />
+      <workItem from="1510333582806" duration="5738000" />
+      <workItem from="1510442437189" duration="1544000" />
+      <workItem from="1510454257761" duration="307000" />
+      <workItem from="1510555068717" duration="4443000" />
+      <workItem from="1510595819779" duration="552000" />
+      <workItem from="1510599061927" duration="10360000" />
+      <workItem from="1510626848366" duration="2331000" />
+      <workItem from="1510727826979" duration="295000" />
+      <workItem from="1510728125682" duration="4000" />
+      <workItem from="1510728154748" duration="860000" />
+      <workItem from="1510767156624" duration="11823000" />
+      <workItem from="1510855208319" duration="2167000" />
+      <workItem from="1510857497603" duration="854000" />
+      <workItem from="1510880144774" duration="1649000" />
+      <workItem from="1510942247769" duration="5107000" />
+      <workItem from="1511215456013" duration="3650000" />
+      <workItem from="1511306795995" duration="8538000" />
+      <workItem from="1511542827880" duration="5605000" />
+      <workItem from="1512150947916" duration="1915000" />
+      <workItem from="1513369247977" duration="4572000" />
+      <workItem from="1513476197562" duration="1580000" />
+      <workItem from="1513535230282" duration="1543000" />
+      <workItem from="1513555880840" duration="1137000" />
+      <workItem from="1513569394677" duration="309000" />
+      <workItem from="1513622449062" duration="192000" />
+      <workItem from="1513726158793" duration="396000" />
+      <workItem from="1513726647195" duration="54000" />
+      <workItem from="1513726723054" duration="3565000" />
+      <workItem from="1513963638446" duration="10118000" />
+      <workItem from="1514517155438" duration="1489000" />
+      <workItem from="1514925588332" duration="585000" />
+      <workItem from="1515003318828" duration="1665000" />
+      <workItem from="1515010936493" duration="1846000" />
+      <workItem from="1515098696822" duration="8369000" />
+      <workItem from="1515175269021" duration="2364000" />
+      <workItem from="1515180485996" duration="597000" />
+      <workItem from="1515190367691" duration="2909000" />
+      <workItem from="1515449522426" duration="2628000" />
+      <workItem from="1515454292053" duration="534000" />
+      <workItem from="1515526464616" duration="1729000" />
+      <workItem from="1522785230268" duration="6125000" />
+      <workItem from="1522884099738" duration="7222000" />
+      <workItem from="1522903737776" duration="312000" />
+      <workItem from="1522980193571" duration="803000" />
+      <workItem from="1523049096529" duration="4394000" />
+      <workItem from="1523059278155" duration="840000" />
+      <workItem from="1523136865066" duration="1120000" />
+      <workItem from="1524337610585" duration="6271000" />
+      <workItem from="1524355423255" duration="860000" />
+      <workItem from="1524356308738" duration="1204000" />
+      <workItem from="1525020870827" duration="2637000" />
+      <workItem from="1525043260721" duration="246000" />
+      <workItem from="1525991276972" duration="656000" />
+      <workItem from="1526011880215" duration="623000" />
+      <workItem from="1526013276340" duration="462000" />
+      <workItem from="1526018542326" duration="2000" />
+      <workItem from="1526063427555" duration="181000" />
+      <workItem from="1526137903097" duration="3351000" />
+      <workItem from="1526410822561" duration="579000" />
+      <workItem from="1526535547546" duration="9000" />
+      <workItem from="1526914966200" duration="454000" />
+      <workItem from="1526952010662" duration="8286000" />
+      <workItem from="1526960448751" duration="16000" />
+      <workItem from="1526960468161" duration="20000" />
+    </task>
+    <task id="LOCAL-00031" summary="Combat Target bug fix">
+      <created>1508863019640</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1508863019640</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Botting System &amp; Combat Refinement">
+      <created>1508896728357</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1508896728357</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Skeleton King &amp; Targeting Fix">
+      <created>1508898580505</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1508898580505</updated>
+    </task>
+    <task id="LOCAL-00034" summary="ECMA 5.1 Downgrade">
+      <created>1508946865226</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1508946865226</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Quest dehardcoding">
+      <created>1508951051712</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1508951051712</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Taking in consideration stacks">
+      <created>1508952053452</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1508952053452</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Pirate Captain Boss">
+      <created>1508985670758</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1508985670758</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Finished Pirate Captain Boss, Start on Ant Queen and Special Effects">
+      <created>1508989995415</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1508989995415</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Client configuration - distributable">
+      <created>1509067272292</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1509067272292</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Fixes bug caused by forgotten if statement, re-formats the spawning packet">
+      <created>1509071803005</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1509071803005</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Chests and Chest Areas properly done">
+      <created>1509079748277</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1509079748277</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fixes Pirate Captain Teleport &amp; Projectiles Enhancements">
+      <created>1509123981019</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1509123981019</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Warping Interface">
+      <created>1509216492250</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1509216492250</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Minor Changes">
+      <created>1509409430711</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1509409430712</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Combat work and Queen Ant finalization">
+      <created>1509503567292</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1509503567292</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Zooming fix (accounts for width and height)">
+      <created>1509560693912</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1509560693912</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Tutorial Failsafe">
+      <created>1509595100056</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1509595100056</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Warping interface ready - Server side code is left to do">
+      <created>1509686752915</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1509686752915</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Warping and map changes">
+      <created>1509729813344</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1509729813344</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Fixes Ant Queen crashes">
+      <created>1509950749500</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1509950749501</updated>
+    </task>
+    <task id="LOCAL-00051" summary="AoE Fixes &amp; Queen Ant functional">
+      <created>1510337423615</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1510337423616</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Hit Callback for Players">
+      <created>1510443727400</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1510443727400</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Combat Formula">
+      <created>1510560221472</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1510560221473</updated>
+    </task>
+    <task id="LOCAL-00054" summary="New armour, de-hardcoded `drawEntityFore`, adds special attacks, stunning animations, weapon requirements, new handlers,">
+      <created>1510608198726</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1510608198727</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Fixes bug where chests were replaced with a pickle">
+      <created>1510609614620</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1510609614620</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Fixes warping bug, combat bug and interface misalignment">
+      <created>1510769839293</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1510769839293</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Fixes overlay bug">
+      <created>1510770182401</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1510770182401</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Adds Crypto Miner">
+      <created>1510880192087</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1510880192088</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Fixes WSAD movement &amp; NPC talking, adds timeout, fixes combat healing">
+      <created>1511542946906</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1511542946908</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Fixes pendant, mob not attacking, blank initial attack bugs">
+      <created>1511548222633</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1511548222633</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Crypto Rewards">
+      <created>1513388402831</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1513388402833</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Fixes interfaces not disappearing &amp; inability to attack after picking up an item.">
+      <created>1513726969602</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1513726969603</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Great Squid &amp; Improvements to stunning mechanism">
+      <created>1513753259959</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1513753259959</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Tenebris Plugin and enhancements">
+      <created>1513986497679</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1513986497680</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Refactoring and Shop">
+      <created>1515099319589</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1515099319590</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Shop Progress">
+      <created>1515528836874</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1515528836874</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Shop Inventory and Data GUI Display - Node Updates">
+      <created>1522792937692</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1522792937693</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Fixes Combat - Attempted optimization left for some other time.">
+      <created>1522886732099</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1522886732100</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Fixes Enchant Resizing, Structures Shops Accordingly, and Annoying Error in JS Console">
+      <created>1522891166597</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1522891166597</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Shop Resizing">
+      <created>1522892874564</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1522892874564</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Shop resizing hotfix (caused when resizing before loading the game)">
+      <created>1522980484900</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1522980484900</updated>
+    </task>
+    <task id="LOCAL-00072" summary="New Packets and Message Sending">
+      <created>1523067481286</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1523067481287</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Fixes WSAD NPC Talking">
+      <created>1524338392892</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1524338392897</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Removing Crypto">
+      <created>1525991326149</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1525991326149</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Some Packet Conventions">
+      <created>1526141236482</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1526141236483</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Local Storage to save Player Orientation">
+      <created>1526142714595</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1526142714595</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Fixes NPC Clicking &amp; Moves API to the Configuration">
+      <created>1526915270723</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1526915270726</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Reverts server-sided orientation and movement implementation">
+      <created>1526952948008</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1526952948012</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Dynamic Idle Speed Control">
+      <created>1526955318240</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1526955318240</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="763005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="16" y="22" width="1258" height="778" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1581876" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38394275" side_tool="true" visible="true" weight="0.28835228" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49670744" weight="0.328125" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32905984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6160572" weight="0.28835228" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="V8 CPU Profiling" order="10" sideWeight="0.67861557" weight="0.32954547" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixes bug where chests were replaced with a pickle" />
+    <MESSAGE value="Fixes warping bug, combat bug and interface misalignment" />
+    <MESSAGE value="Fixes overlay bug" />
+    <MESSAGE value="Adds Crypto Miner" />
+    <MESSAGE value="Fixes WSAD movement &amp; NPC talking, adds timeout, fixes combat healing" />
+    <MESSAGE value="Fixes pendant, mob not attacking, blank initial attack bugs" />
+    <MESSAGE value="Crypto Rewards" />
+    <MESSAGE value="Fixes interfaces not disappearing &amp; inability to attack after picking up an item." />
+    <MESSAGE value="Great Squid &amp; Improvements to stunning mechanism" />
+    <MESSAGE value="Tenebris Plugin and enhancements" />
+    <MESSAGE value="Refactoring and Shop" />
+    <MESSAGE value="Shop Progress" />
+    <MESSAGE value="Shop Inventory and Data GUI Display - Node Updates" />
+    <MESSAGE value="Fixes Combat - Attempted optimization left for some other time." />
+    <MESSAGE value="Fixes Enchant Resizing, Structures Shops Accordingly, and Annoying Error in JS Console" />
+    <MESSAGE value="Shop Resizing" />
+    <MESSAGE value="Shop resizing hotfix (caused when resizing before loading the game)" />
+    <MESSAGE value="New Packets and Message Sending" />
+    <MESSAGE value="Fixes WSAD NPC Talking" />
+    <MESSAGE value="Removing Crypto" />
+    <MESSAGE value="Some Packet Conventions" />
+    <MESSAGE value="Local Storage to save Player Orientation" />
+    <MESSAGE value="Fixes NPC Clicking &amp; Moves API to the Configuration" />
+    <MESSAGE value="Reverts server-sided orientation and movement implementation" />
+    <MESSAGE value="Dynamic Idle Speed Control" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Idle Speed Control" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/js/network/packets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="175" column="2" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/controllers/commands.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/network/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6286">
+          <caret line="449" column="3" selection-start-line="449" selection-start-column="3" selection-end-line="449" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/network/packets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="175" column="2" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/controllers/commands.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/controllers/incoming.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/entity/character/player/warp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/renderer/renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="498" column="126" selection-start-line="498" selection-start-column="126" selection-end-line="498" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/controllers/sprites.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/entity/entity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="176" column="39" selection-start-line="176" selection-start-column="39" selection-end-line="176" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/data/sprites.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="2707" column="16" lean-forward="true" selection-start-line="2707" selection-start-column="16" selection-end-line="2707" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/entity/character/mob/mob.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/controllers/entities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="207" column="54" selection-start-line="207" selection-start-column="54" selection-end-line="207" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/entity/sprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data/npcs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/entity/character/character.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7434">
+          <caret line="531" column="33" lean-forward="true" selection-start-line="531" selection-start-column="33" selection-end-line="531" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/util/shops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1127" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/util/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data/items.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/util/parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/util/items.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/network/websocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/network/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/network/connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/minigames/impl/teamwar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/map/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data/map/world_server.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret column="355805" selection-start-column="355803" selection-end-column="355805" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/map/groups.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/map/area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/map/areas/chestareas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/lib/class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/entity/character/combat/combat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="451" column="33" selection-start-line="451" selection-start-column="33" selection-end-line="451" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/entity/entity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/entity/character/character.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/entity/character/player/party.js" />
+    <entry file="file://$PROJECT_DIR$/server/js/network/packets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="119" column="11" selection-start-line="119" selection-start-column="11" selection-end-line="119" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="270" column="6" selection-start-line="270" selection-start-column="6" selection-end-line="270" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/game/entity/character/player/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="733" selection-start-line="733" selection-end-line="733" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1119" selection-start-line="1119" selection-end-line="1119" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/network/packets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="175" column="2" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/entity/character/player/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/controllers/commands.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/network/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="449" column="3" selection-start-line="449" selection-start-column="3" selection-end-line="449" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/network/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="441" column="10" selection-start-line="441" selection-start-column="10" selection-end-line="441" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
