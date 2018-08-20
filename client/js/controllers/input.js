@@ -172,8 +172,9 @@ define(['jquery', '../entity/animation', './chat', './overlay'], function($, Ani
                     break;
                 
             }
-
-            player.disableAction = false;
+            
+            if(!player.hasKeyboardMovement())
+                player.disableAction = false;
         },
 
         keyMove: function(position) {
