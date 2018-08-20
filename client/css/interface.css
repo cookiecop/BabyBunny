@@ -266,7 +266,7 @@
 .inventorySlots {
     position: absolute;
     top: 13%;
-    left: 14%;
+    left: 6%; 
 }
 
 #enchantInventorySlots {
