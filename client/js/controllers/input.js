@@ -89,28 +89,28 @@ define(['jquery', '../entity/animation', './chat', './overlay'], function($, Ani
 
                         case Modules.Keys.W:
                         case Modules.Keys.Up:
-
+                            player.disableAction = true;
                             self.getPlayer().moveUp = true;
 
                             break;
 
                         case Modules.Keys.A:
                         case Modules.Keys.Left:
-
+                            player.disableAction = true;
                             self.getPlayer().moveLeft = true;
 
                             break;
 
                         case Modules.Keys.S:
                         case Modules.Keys.Down:
-
+                            player.disableAction = true;
                             self.getPlayer().moveDown = true;
 
                             break;
 
                         case Modules.Keys.D:
                         case Modules.Keys.Right:
-
+                            player.disableAction = true;
                             self.getPlayer().moveRight = true;
 
                             break;
