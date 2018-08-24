@@ -192,8 +192,10 @@ define(['jquery', './camera', './tile',
 
             self.drawAnimatedTiles();
 
+            //highlights hovered cell
             self.drawTargetCell();
 
+            //highlights end of path
             self.drawSelectedCell();
 
             self.drawEntities();
@@ -274,6 +276,7 @@ define(['jquery', './camera', './tile',
                 return;
 
             self.drawFPS();
+            self.drawTargetName();
 
             if (!self.mobile) {
                 self.drawPosition();
@@ -559,6 +562,19 @@ define(['jquery', './camera', './tile',
             self.frameCount++;
 
             self.drawText('FPS: ' + self.realFPS, 10, 11, false, 'white');
+        },
+
+        drawTargetName: function() {
+
+            
+            if(!this.game.player.target)
+                this.drawText('Target: None', 10, 51, false, 'white');
+            else
+                this.drawText('Target: ' + this.game.player.target.name, 10, 51, false, 'white');
+            
+
+            //this.game.player.username
+            //this.game.player.target.name;
         },
 
         drawPosition: function() {
